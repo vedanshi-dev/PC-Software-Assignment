@@ -1,2 +1,5 @@
 # PC-Software-Assignment
-hello 
+
+#Hi, I'm Vedanshi Daima
+
+Welcome to my github profile 
